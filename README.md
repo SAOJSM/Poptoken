@@ -1,6 +1,6 @@
 # PopkonTV 登入 Token 獲取工具
 
-這是一個用於獲取 PopkonTV (https://www.popkontv.com/) 登入 token 的 Python 工具，可用於測試網站登入接口的有效性。
+這是一個用於獲取 PopkonTV 登入 token 的 Python 工具，可用於測試網站登入接口的有效性。
 
 ## 功能特點
 
